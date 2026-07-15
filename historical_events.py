@@ -8,7 +8,7 @@ def get_historical_events(month, day):
     events = data['data']['Events']
     return events
  
-st.title('Historical Events Viewer')
+st.title('Historical Events Wakar Damana App')
 st.write('Enter a date to retrieve historical events.')
  
 # Input fields for month and day
